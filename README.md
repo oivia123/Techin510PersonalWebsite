@@ -10,8 +10,8 @@ This is a personal portfolio website built with Next.js and Tailwind CSS. It sho
 
 1. **Clone the repo:**
    ```bash
-   git clone <your-repo-url>
-   cd portfolio-website
+   git clone https://github.com/oivia123/Techin510PersonalWebsite.git
+   cd Techin510PersonalWebsite
    ```
 
 2. **Install dependencies:**
@@ -39,5 +39,3 @@ This is a personal portfolio website built with Next.js and Tailwind CSS. It sho
 ## Deployment
 - You can deploy this project to [Vercel](https://vercel.com/) for free, or any platform that supports Next.js.
 
-## Contact
-- [Your Name/Email/LinkedIn, optional]
